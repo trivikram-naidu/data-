@@ -1,2 +1,2 @@
-# data-
+# data
 data science projects
